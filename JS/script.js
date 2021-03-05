@@ -1,4 +1,3 @@
-
 const myForm = document.getElementById("date-form"); //gets element by id of myForm
 const maleNames = [
   "Kwasi",
