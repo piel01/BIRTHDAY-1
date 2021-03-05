@@ -1,0 +1,17 @@
+body{
+    background-image: url(/IMAGES/bride.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:rgb(182, 47, 182);
+    text-align: center;
+    text-decoration: tomato;
+}
+h2{
+    color: yellow;
+}
+p{
+    color: rgb(224, 17, 145);
+}
